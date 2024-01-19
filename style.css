@@ -14,10 +14,12 @@
     border-radius: 20px;
     width: 200px;
 }
-input{
+
+input {
     border-radius: 25px;
     width: 100px;
 }
+
 button {
     display: block;
     width: 200px;
@@ -56,4 +58,5 @@ button:hover {
 
 button:hover:after {
     width: 100%;
+
 }
